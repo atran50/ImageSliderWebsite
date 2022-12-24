@@ -21,7 +21,9 @@
 }
 
 .prePhotoSection{
+    margin-top: auto;
     background-color:#edf6f9;
+    justify-content: center;
 }
 
 .introText{
@@ -32,7 +34,7 @@
     line-height: normal;
     border: 10px solid #83c5be;
     width: 50%;
-    border-radius: 50%;
+    border-radius: 5%;
 }
 
 .container{
