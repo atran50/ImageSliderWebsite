@@ -21,6 +21,10 @@
     width: 100%;
 }
 
+.afterBanner{
+    background-color:#edf6f9 ;
+}
+
 .prePhotoSection{
     margin: 0px auto;
     background-color:#edf6f9;
