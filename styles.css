@@ -59,7 +59,7 @@
 }
 
 .swiper{
-    margin-top: 50px;
+    margin-bottom: 50px;
     width: 50%;
     height: fit-content;
     justify-content: center;
@@ -67,7 +67,7 @@
 
 .swiper2{
     margin: 0 auto;
-    margin-top: 50px;
+    margin-bottom: 50px;
     width: 100%;
     height: fit-content;
     justify-content: center;
