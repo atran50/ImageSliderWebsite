@@ -20,11 +20,15 @@
     width: 100%;
 }
 
+.prePhotoSection{
+    background-color:#edf6f9;
+}
+
 .introText{
     display: flex;
     flex-direction: column;
     padding: 10vh 0px;
-    background-color:#edf6f9;
+    
     text-align: center;
     line-height: normal;
     border: 2px solid #ffddd2;
