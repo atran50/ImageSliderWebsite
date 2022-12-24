@@ -17,6 +17,7 @@
     margin-top: 50px;
     background-color: #e29578;
     text-align: center;
+    width: 100%;
 }
 
 .introText{
@@ -30,7 +31,7 @@
 
 .container{
     width: 100%;
-    height: 200vh;
+    height: 250vh;
     background: linear-gradient(#edf6f9,#efd3d7,#ffddd2);
     display: flex;
     align-items: center;
@@ -55,8 +56,6 @@
 
 }
 
-
-
 #vertical
 {
     width: auto;
@@ -68,7 +67,7 @@
 #horizontal
 {
     width: auto;
-    height: 100vh;
+    height: 90vh;
     margin-left: auto;
     margin-right: auto;
 }
