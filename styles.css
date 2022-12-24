@@ -2,16 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #222;
+    color: #353535;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#textShadow
+{
+    text-shadow: 0px 0px 2px #222;
+}
 
 .topBanner{
     margin: 0px auto;
     background-color: #e29578;
     text-align: center;
-    text-shadow: 0px 0px 2px #222;
 }
 
 .bottomBanner
@@ -42,7 +45,6 @@
     line-height: normal;
     width: 100%;
     justify-content: center;
-
 }
 
 .container{
@@ -95,10 +97,6 @@
 
 .swiper .swiper-pagination-bullet-active{
     background: #83c5be;
-}
-
-#text{
-    color: #353535;
 }
 
 #linkColor{
