@@ -24,6 +24,7 @@
     padding: 10vh 0px;
     background-color:#edf6f9;
     text-align: center;
+    line-height: normal;
 }
 
 .container{
@@ -66,4 +67,8 @@
 
 #text{
     color: #353535;
+}
+
+#linkColor{
+    color: #0000EE;
 }
