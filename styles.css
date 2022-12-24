@@ -23,7 +23,6 @@
 
 .prePhotoSection{
     margin: 0px auto;
-    margin-top: 50px;
     background-color:#edf6f9;
     justify-content: center;
     
@@ -38,6 +37,8 @@
     border: 7px solid #83c5be;
     width: 50%;
     border-radius: 5%;
+    justify-content: center;
+
 }
 
 .container{
