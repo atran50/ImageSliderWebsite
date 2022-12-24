@@ -21,14 +21,6 @@
     width: 100%;
 }
 
-.prePhotoSection{
-    margin: 0px auto;
-    background-color:#edf6f9;
-    justify-content: center;
-    width: 100%;
-    text-align: center;
-}
-
 .introText{
     display: flex;
     flex-direction: column;
