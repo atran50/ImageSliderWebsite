@@ -28,11 +28,10 @@
     display: flex;
     flex-direction: column;
     padding: 10vh 0px;
-    
     text-align: center;
     line-height: normal;
-    border: 2px solid #ffddd2;
-    border-radius: 20px;
+    border: 10px solid #83c5be;
+    border-radius: 50%;
 }
 
 .container{
