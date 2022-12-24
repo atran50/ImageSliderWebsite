@@ -6,18 +6,20 @@
 }
 
 .topBanner{
-    color: #222;
+    color: #edeec9;
+    background-color: #98c9a3;
 }
 
 .bottomBanner
 {
-    color: #222;
+    color: #edeec9;
+    background-color: #98c9a3;
 }
 
 .container{
     width: 100%;
     height: 300vh;
-    background: #222;
+    background: #77bfa3;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,9 +47,9 @@
 }
 
 .swiper .swiper-button-prev, .swiper .swiper-button-next{
-    color: #fff;
+    color: #edeec9;
 }
 
 .swiper .swiper-pagination-bullet-active{
-    background: #fff;
+    background: #edeec9;
 }
