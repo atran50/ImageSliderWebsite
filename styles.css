@@ -8,7 +8,7 @@
     margin: 0px auto;
     color: #222;
     background-color: #edeec9;
-    justify-content: center;
+    text-align: center;
 }
 
 .bottomBanner
@@ -16,7 +16,7 @@
     margin: 0px auto;
     color: #222;
     background-color: #edeec9;
-    justify-content: center;
+    text-align: center;
 }
 
 .introText{
@@ -33,6 +33,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
 }
 
 .swiper{
