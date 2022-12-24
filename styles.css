@@ -49,10 +49,9 @@
 .swiper2{
     margin: 0 auto;
     margin-top: 50px;
-    width: 50%;
-    height: 50%;
+    width: 150%;
+    height: fit-content;
     object-fit: scale-down;
-    background-size: 100%;
     
 }
 
@@ -68,8 +67,8 @@
 
 #horizontal
 {
-    width: 150%;
-    height: 130vh;
+    width: auto;
+    height: 100vh;
     margin-left: auto;
     margin-right: auto;
 }
