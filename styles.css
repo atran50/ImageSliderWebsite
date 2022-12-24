@@ -31,7 +31,7 @@
 
 .container{
     width: 100%;
-    height: 250vh;
+    height: 210vh;
     background: linear-gradient(#edf6f9,#efd3d7,#ffddd2);
     display: flex;
     align-items: center;
@@ -59,7 +59,7 @@
 #vertical
 {
     width: auto;
-    height: 100vh;
+    height: 85vh;
     margin-left: auto;
     margin-right: auto;
 }
@@ -67,7 +67,7 @@
 #horizontal
 {
     width: auto;
-    height: 90vh;
+    height: 85vh;
     margin-left: auto;
     margin-right: auto;
 }
