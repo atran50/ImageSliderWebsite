@@ -4,6 +4,9 @@
     box-sizing: border-box;
     color: #353535;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.body{
     background: linear-gradient(#edf6f9,#efd3d7,#ffddd2);
 }
 
