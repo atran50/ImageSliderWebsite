@@ -19,7 +19,6 @@
 
 .bottomBanner
 {
-    margin-top: 50px;
     background-color: #e29578;
     text-align: center;
     width: 100%;
@@ -59,8 +58,8 @@
 }
 
 .swiper{
-    margin-bottom: 50px;
-    width: 100%;
+    margin-bottom: 75px;
+    width: 80%;
     height: fit-content;
     justify-content: center;
 }
